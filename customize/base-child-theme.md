@@ -117,7 +117,7 @@ Author: PageLines
 Author URI: http://www.pagelines.com
 Tags: developer
 
-Template: pagelines
+Template: dms
 
 */
 
@@ -170,12 +170,12 @@ Author: PageLines
 Author URI: http://www.pagelines.com
 Tags: developer
 
-Template: pagelines
+Template: dms
 
 */
 ~~~
 
-Edit any of these items, except for **Template: pagelines**, which tells Wordpress that this is a child theme of PageLines DMS.
+Edit any of these items, except for **Template: dms**, which tells Wordpress that this is a child theme of PageLines DMS.
 
 ~~~ .php
 /*
@@ -187,7 +187,7 @@ Author: ADD_YOUR_NAME_HERE
 Author URI: ADD_YOUR_WEBSITE_URL_HERE
 Tags: developer
 
-Template: pagelines
+Template: dms
 
 */
 ~~~
