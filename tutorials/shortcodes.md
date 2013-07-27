@@ -851,7 +851,7 @@ You can have as many slides as you can create.
 
 ## Responsive Videos ##
 
-A lightweight, easy-to-use shortcode for fluid width video embeds, which supports both YouTube and Vimeo.
+A lightweight, easy-to-use shortcode for fluid width video embeds, which supports YouTube, Vimeo and Dailymotion.
 
 <table class="table mid table-bordered table-striped table-condensed">
 	<thead>
@@ -863,7 +863,7 @@ A lightweight, easy-to-use shortcode for fluid width video embeds, which support
 	<tbody>
 		<tr>
 			<td class="span1 center"><code>type=""</code></td>
-			<td>Available types include youtube, and vimeo</td>
+			<td>Available types include youtube, vimeo and dailymotion</td>
 		</tr>
 		<tr>
 			<td class="center"><code>id=""</code></td>
