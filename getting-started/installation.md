@@ -39,7 +39,7 @@ Once you have downloaded PageLines DMS, login to your Wordpress Admin Dashboard 
 
 * Navigate to **Appearance &rarr; Themes**.
 * Select **Install Themes** and click **Upload**.
-* Browse your computer and locate the **pagelines.zip** file.
+* Browse your computer and locate the **dms.zip** file.
 * Click **Install Now** to begin installation.
 
 **Note:** PageLines DMS can also be installed via [FTP](http://codex.wordpress.org/Using_Themes#Adding_New_Themes_Manually_.28FTP.29).
