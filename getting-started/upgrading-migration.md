@@ -36,7 +36,7 @@ Whilst developing PageLines DMS, it is very difficult to prevent some CSS change
 * Move all of your widgets back to the desired locations **Appearance &rarr; Widgets**.
 * Visit each tab of the DMS Toolbar and adjust the settings to your liking (don’t forget to enter your account info too!).
 * Paste your custom CSS, functions, etc, that you copied earlier back into your site.
-* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize/) doc.
+* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize) doc.
 
 ## Migrating from PageLines Framework ##
 
@@ -54,7 +54,7 @@ Like the instructions above, your site content such as pages and posts will rema
 * Move all of your widgets back to the desired locations **Appearance &rarr; Widgets**.
 * Visit each tab of the DMS Toolbar and adjust the settings to your liking (don’t forget to enter your account info too!).
 * Paste your custom CSS, functions, etc, that you copied earlier back into your site.
-* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize/) doc.
+* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize) doc.
 
 ## Upgrading From DMS Lite
 
