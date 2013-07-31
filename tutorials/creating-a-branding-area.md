@@ -80,7 +80,7 @@ These variables have each been given a specified color which is associated with 
 
 @dribbble:			#EA4c89;
 @facebook:		#3B5998;
-@googleplus		#E14107;
+@googleplus:		#E14107;
 @instagram:		#517FA4;
 @linkedin:			#0181B2;
 @pinterest:			#CB2027;
