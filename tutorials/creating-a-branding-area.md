@@ -159,7 +159,7 @@ Now it's time to add the LESS which will style the Social Bars HTML we added ear
         background-color: @twitter;
     &:hover { background-color: lighten(@twitter, 10%); }
     }
-    .icon-youtube {
+    .icon-youtube-play {
         background-color: @youtube;
     &:hover { background-color: lighten(@youtube, 10%); }
     }
