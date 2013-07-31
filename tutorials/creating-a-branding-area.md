@@ -102,11 +102,11 @@ Now it's time to add the LESS for the Social Bar HTML we added to the **TextBox*
     }
     .icon {
         color: #FFF;
-        .border-radius(0px); /* Here incase you wish to add a radius */
-        min-width: 50px;
-        line-height: 50px;
+        .border-radius(5px); /* Here incase you wish to add a radius */
+        min-width: 1.5em;
+        line-height: 1.5em;
         text-align: center;
-        font-size: 26px;
+        font-size: 1.2em;
     &:hover { .transition(background .4s linear);     }
     }
     .icon-dribbble {
