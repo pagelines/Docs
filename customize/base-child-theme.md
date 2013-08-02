@@ -16,10 +16,10 @@ For more information regarding child themes, we recommend reading these linked W
 
 ## Structure ##
 
-The PageLines Base Theme (child) folder when [installed](/configure/installing-store-products), will be located here **wp-content → themes → pagelines-template-theme**, containing the subfolder and files, as seen below.
+The PageLines Base Theme (child) folder when [installed](/configure/installing-store-products), will be located here **wp-content → themes → dms-template-theme**, containing the subfolder and files, as seen below.
 
 <pre>
-<i class="icon-folder-open"></i> pagelines-template-theme/
+<i class="icon-folder-open"></i> dms-template-theme/
   <i class="icon-folder-open"></i> sections/
   <i class="icon-file"></i> functions.php
   <i class="icon-file"></i> info.txt
@@ -152,11 +152,11 @@ For more information about hooks, see our [Hooks](/advanced/hooks) documentation
 
 ## Renaming the Base child theme ##
 
-By default, the PageLines child is named Base Theme with all the files stored in the **pagelines-template-theme** directory. However, at some point you may wish to change the name of the Base child theme.
+By default, the PageLines child is named Base Theme with all the files stored in the **dms-template-theme** directory. However, at some point you may wish to change the name of the Base child theme.
 
 Before proceeding with the following instructions, make sure the Base Theme is not the currently active theme (it can cause errors) by going to **Wordpress Admin Dashboard → Appearance → Themes** and clicking the **Activate link** for PageLines DMS.
 
-Once the Base Theme has been deactived, open your FTP client, connect to your server and navigate to the following directory **wp-content → themes → pagelines-template-theme**.
+Once the Base Theme has been deactived, open your FTP client, connect to your server and navigate to the following directory **wp-content → themes → dms-template-theme**.
 
 Open the `style.css` file and you will see the following information.
 
@@ -194,7 +194,7 @@ Template: dms
 
 Once you have replaced the default information with your own, save the `style.css` file. You have now successfully changed the name of Base Theme and made it into your own child theme!
 
-You may also want to want to rename the **pagelines-template-theme** folder to match your child theme name. To do this, simply rename the folder inside your FTP client's Rename utility.
+You may also want to want to rename the **dms-template-theme** folder to match your child theme name. To do this, simply rename the folder inside your FTP client's Rename utility.
 
 <div class="row-fluid">
   <div class="span12">
