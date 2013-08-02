@@ -18,14 +18,14 @@ To begin, let's make sure we are using the **Base Theme** customization method, 
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/base-theme-active.jpg)
 
-Once we have determined that the **Base Theme** is our customization method, we need to download a fresh copy of DMS from the [PageLines Launchpad](http://www.pagelines.com/launchpad/member.php) . Once downloaded, extract the `pagelines.zip` and navigate to **pagelines &rarr; sections**, here you will find multiple folders each representing the core sections included with PageLines DMS.
+Once we have determined that the **Base Theme** is our customization method, we need to download a fresh copy of DMS from the [PageLines Launchpad](http://www.pagelines.com/launchpad/member.php) . Once downloaded, extract the `dms.zip` and navigate to **pagelines &rarr; sections**, here you will find multiple folders each representing the core sections included with PageLines DMS.
 
-Locate the section in which you wish to override or customize, for this example we will be overriding the **iBox** section. Now open your FTP client, connect to your server and navigate to the following directory: `/wp-content/themes/pagelines-template-theme/sections/`.
+Locate the section in which you wish to override or customize, for this example we will be overriding the **iBox** section. Now open your FTP client, connect to your server and navigate to the following directory: `/wp-content/themes/dms-template-theme/sections/`.
 
-Upload the **iBox** section folder to Base Theme at `/wp-content/themes/pagelines-template-theme/sections/`  as a folder and like magic, we have a child section of iBox, ready for us to modify.
+Upload the **iBox** section folder to Base Theme at `/wp-content/themes/dms-template-theme/sections/`  as a folder and like magic, we have a child section of iBox, ready for us to modify.
 
 <pre>
-<i class="icon-folder-open"></i> pagelines-template-theme/
+<i class="icon-folder-open"></i> dms-template-theme/
 	<i class="icon-folder-open"></i> sections/
 		<i class="icon-folder-open"></i> <strong>ibox/</strong>
 	<i class="icon-file"></i> functions.php
