@@ -12,8 +12,6 @@
 
 The Browser Specific CSS plugin adds a browser or device specific class to your body tag, depending on what browser/device is viewing the page. Which can be used to add styling for that particular browser or device.
 
-The Browser Specific CSS plugin adds a browser or device specific class to your body tag, depending on what browser/device is viewing the page. which can be used to add styling for that particular browser or device.
-
 ## Usage ##
 
 ### Without Plugin ###
