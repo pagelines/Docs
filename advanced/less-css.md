@@ -735,7 +735,7 @@ By using the the LESS mixins`.border-radius();` and `#gradient > .vertical()`, w
 #site .masthead {
 	#gradient > .vertical(#05F, #09F);
 	.border-radius(8px);
-	padding: 20px
+	padding: 20px;
 }
 ~~~
 
