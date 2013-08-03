@@ -38,8 +38,6 @@ define('WP_DEBUG', true;
 
 Once added, the blank screen may now display errors, warnings, or notices. These will likely help you determine the root cause.  If you're going to open a topic in our support forum, please copy and paste these errors there, explaining what occurred before you experienced the white page condition.
 
-Once added, the blank screen may now have errors, warnings, or notices. These may be able to help you determine the root cause.
-
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
