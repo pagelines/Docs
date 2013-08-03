@@ -136,7 +136,7 @@ Now it's time to add the LESS which will style the Social bar HTML we added earl
         background-color: @dribbble;
     &:hover { background-color: lighten(@dribbble, 10%); }
     }
-    icon-envelope {
+    .icon-envelope {
         background-color: @envelope;
     &:hover { background-color: lighten(@envelope, 10%); }
     }
