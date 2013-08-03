@@ -8,9 +8,9 @@ Using this 'API', you can define what kind of content the sections load on the p
 
 The first part of section development, is setting up your section folder. 
 
-Sections are supported in a variety of areas; specifically, they are supported in your plugins folder (with a special wrapper) and in your child theme 'sections' folder (child_root/sections/sectionFolder/). 
+Sections are supported in a variety of areas; specifically, they are supported in your plugins folder (with a special wrapper) and in your child theme 'sections' folder (child_theme_root/sections/sectionFolder/). 
 
-The folder name you choose for your section will become your global 'section ID'.  Inside this folder you'll have your master 'section.php' file where you'll most or all of the code for the section.
+The folder name you choose for your section will become your global 'section ID'.  Inside this folder you'll have your master 'section.php' file where you'll write most or all of the code for the section.
 
 So to set up your basic section, you would have something like this (child_theme_root)/sections/sectionID/section.php
 
@@ -69,7 +69,7 @@ Now your section is started! We're going to build on this in the next few paragr
 ## Section Properties and Assets ##
 By extending the core PageLines Section class you get access to a lot of tools, built right in to the section. 
 
-Specifically, there are a bunch of variables set up for you to access that give you information about the section (that you can then use in code)
+Specifically, there are a bunch of variables set up for you to access that give you information about the section (that you can then use in code).
 
 A few examples of variables you'll have are below.
 
