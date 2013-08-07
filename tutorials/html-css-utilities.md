@@ -42,7 +42,7 @@ Adding this unique class `zb` to your element will specify a zero border, `zb` i
       <tbody>
             <tr>
                   <td class="span2 center"><code>.zb</code></td>
-                  <td>Specifies zero margin on top of any element</td>
+                  <td>Specifies zero border on any element</td>
             </tr>
       </tbody>
 </table>
