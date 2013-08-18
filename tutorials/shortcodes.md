@@ -880,16 +880,22 @@ A lightweight, easy-to-use shortcode for fluid width video embeds, which support
 	<tbody>
 		<tr>
 			<td class="span1 center"><code>type=""</code></td>
-			<td>Available types include youtube, vimeo and dailymotion</td>
+			<td>Available types include youtube, vimeo and dailymotion.</td>
 		</tr>
-		<tr>
+		<tr>	
 			<td class="center"><code>id=""</code></td>
-			<td>ID of the video. See below for an example</td>
+			<td>ID of the video.</td>
 		</tr>
 	</tbody>
 </table>
 
-<div class="row-fluid">
+For example:
+~~~ .html
+[pl_video type="vimeo" id="50522981"]
+[pl_video type="youtube" id="knt8GcIF14Y"]
+~~~
+
+<div class="row-fluid>"
 	<div class="span6">
 		<img src="http://netdna.pagelines.me/wp-content/blogs.dir/686/files/2012/10/vimeo.jpg?v=1371676907" alt="" title="vimeo" style="margin-bottom: 1.5em;">
 	</div>
