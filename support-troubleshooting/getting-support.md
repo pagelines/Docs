@@ -47,7 +47,7 @@ The PageLines [Translation Center](http://pagelines.com/translate/projects/) all
 Unfortunately, there are limits to PageLines support, which have been listed below:
 
 <ul>
-<li>Regretfully, we cannot provide general WordPress support, please use the [Wordpress.org](http://wordpress.org/support/) forums for all WordPress questions.</li>
+<li>Regretfully, we cannot provide general WordPress support, please use the <a href="http://wordpress.org/support/">Wordpress.org forums</a> for all WordPress questions.</li>
 
 <li>We cannot provide support for third-party plugins; please contact the plugin author for assistance. </li>
 
