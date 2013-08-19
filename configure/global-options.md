@@ -126,6 +126,8 @@ Enter the required information for either twitter, facebook or hashtag into the 
 
 ![Section Control](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/social-local.jpg "Social Media")
 
+**Note:** Using the adblock plus extension will hide all options please disable or make an exception for your site.
+
 ## NavBar ##
 
 The **NavBar** panel provides the ability to enable a fixed navigation bar to the top of your website. This Fixed Navigation bar is a powerful way to maintain your brand and menu even as your visitor’s scroll through your content.
