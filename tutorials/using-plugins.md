@@ -14,7 +14,7 @@ PageLines DMS Plugins are extensions based on the WordPress Plugin architecture.
 
 ## Action Map ##
 
-<p>The Action Map plugin is used to indicate where hooks are positioned throughout your page. If you are looking to insert a custom hook, activate this plugin to determine which hook is in the best location to insert your code. You can also view a list of the available pagelines hooks <a href="http://api.pagelines.com/hooks">here</a>.</p>
+<p>The Action Map plugin is used to indicate where hooks are positioned throughout your page. If you are looking to insert a custom hook, activate this plugin to determine which hook is in the best location to insert your code. You can also view a list of the available pagelines hooks <a href="http://api.pagelines.com/libs/hooks.html">here</a>.</p>
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/actionmap.png)
 
