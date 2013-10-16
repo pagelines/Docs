@@ -201,24 +201,22 @@ An example would look like this:
 class YourSectionClassName extends PageLinesSection {
 	
 	function section_opts(){
-		
-		function section_opts(){
-			$opts = array(
-				array(
-					'key'			=> 'the_option_key',
-					'type' 			=> 'select',
-					'title' 		=> 'Select Something',
-					'label' 		=> 'Select Somethign',
-					'opts'=> array(
-						'optvalue1'		=> array( 'name' => 'Some Option Stuff' ),
-						'optvalue2'	 	=> array( 'name' => 'Some Option Stuff' )
-					)
+		$opts = array(
+			array(
+				'key'			=> 'the_option_key',
+				'type' 			=> 'select',
+				'title' 		=> 'Select Something',
+				'label' 		=> 'Select Somethign',
+				'opts'=> array(
+					'optvalue1'		=> array( 'name' => 'Some Option Stuff' ),
+					'optvalue2'	 	=> array( 'name' => 'Some Option Stuff' )
 				)
+			)
 
-			);
-			return $opts;
-		}
+		);
+		return $opts;
 	}
+	
 }
 
 
