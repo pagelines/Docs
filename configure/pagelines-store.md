@@ -16,7 +16,7 @@ The Store is an incredible asset, full of important resources to improve the qua
 
 ## Accessing the store ##
 
-To access the Store, you may purchase direct from our [website](http://www.pagelines.com/store) or, for easier installation, simply access the Store tab from the PageLines Toolbar to find the products you need.
+To access the Store, you may purchase direct from our [website](http://www.pagelines.com/shop) or, for easier installation, simply access the Store tab from the PageLines Toolbar to find the products you need.
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/store.jpg)
 

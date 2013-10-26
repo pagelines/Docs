@@ -24,6 +24,23 @@ To resolve this issue, we have created a utility shortcode that stops Wordpress 
 
 Please be aware that the `[pl_raw]` shortcode can only be used once per page.
 
+## PL CodeBox ##
+
+Want to add blocks of code to your posts, pages or sections? Then the PL CodeBox shortcode is for you. It utilities [Google Prettyprint](https://code.google.com/p/google-code-prettify/), which highlights your syntax.
+
+All you need to is firstly, activate the **Google Prettify Code** option which is located under **DMS Toolbar &rarr; Global Options &rarr; Advanced**. Once enabled, wrap your code with `[pl_codebox]...[/pl_codebox]`.
+
+For example:
+
+~~~ .html
+[pl_codebox]
+<div class="example">
+	<h1>Hello World!</h1>
+	<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+</div>
+[/pl_codebox]
+~~~
+
 ## Buttons ##
 
 There are 7 different color schemes to choose from, as well 3 sizes; mini, default and large.
@@ -588,6 +605,8 @@ This is an error.
 	</p>
 </blockquote>
 
+<div class="clearfix"></div>
+
 ## Tabs ##
 
 <table class="table mid table-bordered table-striped table-condensed">
@@ -642,6 +661,24 @@ This is an error.
 </div>
 </div>
 </div>
+
+~~~ .html
+[pl_tabs][pl_tabtitlesection type="tabs"]
+[pl_tabtitle active="yes" number="1"]Title 1[/pl_tabtitle]
+[pl_tabtitle number="2"]Title 2[/pl_tabtitle]
+[/pl_tabtitlesection]
+ 
+[pl_tabcontentsection]
+[pl_tabcontent active="yes" number="1"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+[/pl_tabcontent]
+[pl_tabcontent number="2"]
+<img class="pl-imageframe" alt="" />
+[/pl_tabcontent]
+[/pl_tabcontentsection]
+ 
+[/pl_tabs]
+~~~
 
 ## Accordion ##
 
@@ -851,7 +888,7 @@ You can have as many slides as you can create.
 
 ## Responsive Videos ##
 
-A lightweight, easy-to-use shortcode for fluid width video embeds, which supports both YouTube and Vimeo.
+A lightweight, easy-to-use shortcode for fluid width video embeds, which supports YouTube, Vimeo and Dailymotion.
 
 <table class="table mid table-bordered table-striped table-condensed">
 	<thead>
@@ -863,7 +900,7 @@ A lightweight, easy-to-use shortcode for fluid width video embeds, which support
 	<tbody>
 		<tr>
 			<td class="span1 center"><code>type=""</code></td>
-			<td>Available types include youtube, and vimeo</td>
+			<td>Available types include youtube, vimeo and dailymotion</td>
 		</tr>
 		<tr>
 			<td class="center"><code>id=""</code></td>
@@ -880,6 +917,18 @@ A lightweight, easy-to-use shortcode for fluid width video embeds, which support
 		<img src="http://netdna.pagelines.me/wp-content/blogs.dir/686/files/2012/10/youtube.jpg?v=1371676907" alt="" title="youtube" style="margin-bottom: 1.5em;">
 	</div>
 </div>
+<div class="row-fluid">
+	<div class="span12">
+		<img src="https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/dailymotion.jpg" alt="" title="vimeo" style="margin-bottom: 1.5em;">
+	</div>
+</div>
+
+
+~~~ .html
+[pl_video type="vimeo" id="Add video id here, see image above"]
+[pl_video type="youtube" id="Add video id here, see image above"]
+[pl_video type="dailymotion" id="Add video id here, see image above"]
+~~~
 
 <iframe src="http://player.vimeo.com/video/67237715?title=0&amp;byline=0" width="870" height="419" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

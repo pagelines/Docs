@@ -10,7 +10,7 @@
 
 # PageLines Sections #
 
-PageLines DMS Sections are modular extensions based on the PageLines Drag & Drop architecture, and are included in the core DMS. If you are looking for information on configuring or activating sections, please review [this guide](http://docs.pagelines.com/configure/configure-sections).
+PageLines DMS Sections are modular extensions based on the PageLines Drag & Drop architecture, and are included in the core DMS. If you are looking for information on configuring or activating sections, please review [this guide](http://docs.pagelines.com/configure/configuring-sections).
 
 ## Columnizer ##
 

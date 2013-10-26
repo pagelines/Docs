@@ -64,7 +64,7 @@ Save these changes and from now on, only **andrew**, **bob**, **chris**, **danie
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
-			<li class="pull-left"><a href="http://docs.pagelines.com/tutorials/adding-custom-fonts">&larr; Adding Custom Fonts</a></li>
+			<li class="pull-left"><a href="http://docs.pagelines.com/tutorials/creating-a-branding-area">&larr; Creating a Branding Area</a></li>
 		</ul>
 	</div>
 </div>

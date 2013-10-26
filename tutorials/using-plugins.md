@@ -14,7 +14,7 @@ PageLines DMS Plugins are extensions based on the WordPress Plugin architecture.
 
 ## Action Map ##
 
-<p>The Action Map plugin is used to indicate where hooks are positioned throughout your page. If you are looking to insert a custom hook, activate this plugin to determine which hook is in the best location to insert your code. You can also view a list of the available pagelines hooks <a href="http://api.pagelines.com/hooks">here</a>.</p>
+<p>The Action Map plugin is used to indicate where hooks are positioned throughout your page. If you are looking to insert a custom hook, activate this plugin to determine which hook is in the best location to insert your code. You can also view a list of the available pagelines hooks <a href="http://api.pagelines.com/libs/hooks.html">here</a>.</p>
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/actionmap.png)
 
@@ -59,12 +59,6 @@ PageLines DMS Plugins are extensions based on the WordPress Plugin architecture.
 <p>Launch Page creates a squeeze or launch page for your site. Features include a responsive background, choice of custom menu and a selection of colored buttons for your page. Launchpage is easily setup.</p>
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/launchpage.png)
-
-## Lazy Loader ##
-
-<p>Use the Lazy Loader plugin to defer image loading for all images outside of the visable portion of your screen. Lazy loader can be used to improve your page load time, especially on long pages which use multiple images.</p>
-
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/lazyloader.png)
 
 ## Poppy ##
 

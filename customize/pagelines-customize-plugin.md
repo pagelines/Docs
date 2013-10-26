@@ -37,17 +37,13 @@ However, you're unable to override sections with the Customize Plugin. If you do
 
 ## Installation ##
 
-To install the PageLines Customize Plugin, you'll need to navigate to **PageLines DMS Toolbar &rarr; Store &rarr; Plugins &rarr; Free**. Click on the PageLines CustomIze icon. You will now be presented with the product's overview; from here click the **Install** button.
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/install-customize-plugin.jpg)
-
-Once the plugin has been installed we need to activate it, click back on the PageLines Customize Plugin icon, then click the **Activate** button.
-
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/activate-customize-plugin.jpg)
-
+* Download the **PageLines Customize** plugin from [here](http://www.pagelines.com/api/store_free/plugin-pagelines-customize.zip)
+* Now install the plugin like any other Wordpress plugin, from your **Wordpress Administrator Dashboard &rarr; Plugins &rarr; Add New &rarr; Upload**.
+* Once the installation process has been completed, activate the plugin.
 
 ## File Structure ##
 
-When installed, the PageLines Customize Plugin folder will be located here:  **wp-content → plugins → pagelines-customize**, and contains the following files:
+Once installed and activated, the PageLines Customize Plugin folder will be located here:  **wp-content → plugins → pagelines-customize**, and contains the following files:
 
 <pre>
 <i class="icon-folder-open"></i> pagelines-customize/

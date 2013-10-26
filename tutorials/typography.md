@@ -194,7 +194,7 @@ A list of items with no `list-style` or additional left padding.
 
 ## More Examples ##
 
-For more information and examples on typography, head over to [Bootstrap’s typography](http://twitter.github.io/bootstrap/base-css.html#typography) page.
+For more information and examples on typography, head over to [Bootstrap’s typography](http://getbootstrap.com/2.3.2/base-css.html#typography) page.
 
 <div class="row-fluid">
 	<div class="span12">

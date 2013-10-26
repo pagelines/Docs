@@ -46,7 +46,7 @@ Open the **stylesheet.css** file that comes included with the @font-face kit to 
 }
 </code></pre>
 
-In the Custom Fonts CSS, you will now need to tell the CSS where the font files are. In **Step.1**, we uploaded these files to `/wp-content/themes/[CHILD THEME]/fonts/`. We now need to include this path for the font to work, to make things easier we can use one the PageLines LESS CSS path variables `@{plChildRoot}` and add `/fonts/` at the end.
+In the Custom Fonts CSS, you will now need to tell the CSS where the font files are. In **Step.1**, we uploaded these files to `/wp-content/themes/[CHILD THEME]/fonts/`. We now need to include this path for the font to work, to make things easier we can use one of the PageLines LESS CSS path variables `@{plChildRoot}` and add `/fonts/` at the end.
 
 Once completed your final code should look like this:
 

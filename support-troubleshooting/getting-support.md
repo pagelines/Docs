@@ -32,7 +32,7 @@ The PageLines Support Forum should be used for any technical questions related t
 
 ### Tracker ###
 
-The PageLines [Tracker](http://www.pagelines.com/forum/tracdown/) should be used for submitting any kind of bugs, including but not limited to usability issues, errors and other DMS malfunctions.
+The PageLines [Issue Tracker](https://github.com/pagelines/DMS/issues) should be used for submitting any kind of bugs, including but not limited to usability issues, errors and other DMS malfunctions.
 
 ### Translation Center ###
 
@@ -47,7 +47,7 @@ The PageLines [Translation Center](http://pagelines.com/translate/projects/) all
 Unfortunately, there are limits to PageLines support, which have been listed below:
 
 <ul>
-<li>Regretfully, we cannot provide general WordPress support, please use the [Wordpress.org](http://wordpress.org/support/) forums for all WordPress questions.</li>
+<li>Regretfully, we cannot provide general WordPress support, please use the <a href="http://wordpress.org/support/">Wordpress.org forums</a> for all WordPress questions.</li>
 
 <li>We cannot provide support for third-party plugins; please contact the plugin author for assistance. </li>
 
@@ -63,7 +63,7 @@ We are unable to provide support for customizations of our products. Support is 
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
-  			<li class="pull-right"><a href="http://docs.pagelines.com/support-troubleshooting/diagnosing">Diagnosing &rarr;</a></li>
+  			<li class="pull-right"><a href="http://docs.pagelines.com/support-troubleshooting/common-issues">Common Issues &rarr;</a></li>
 		</ul>
 	</div>
 </div>

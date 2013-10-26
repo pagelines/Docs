@@ -67,7 +67,7 @@ We are unable to provide support for customizations of our products. Support is 
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
-  			<li class="pull-right"><a href="http://docs.pagelines.com/support-troubleshooting/diagnosing">Diagnosing &rarr;</a></li>
+  			<li class="pull-right"><a href="http://docs.pagelines.com/support-troubleshooting/common-issues">Common Issues &rarr;</a></li>
 		</ul>
 	</div>
 </div>

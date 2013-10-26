@@ -24,7 +24,7 @@ The DMS Tools tab is a fallback system that allows you to remove any LESS or cus
 
 ## Account ##
 
-The **Account** panel which is located in Visiual Editor Toolbar &rarr; Account, includes three tabs.
+The **Account** panel which is located in Visual Editor Toolbar &rarr; Account, includes three tabs.
 
 <ul>
 <li>The <strong>Welcome!</strong> tab provides a simple congratulations message for using PageLines DMS and a getting started video.</li>

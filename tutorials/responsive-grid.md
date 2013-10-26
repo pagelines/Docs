@@ -136,7 +136,7 @@ The responsive grid system uses percents instead of pixels for column widths, en
 	</div>
 </div>
 
-<p class="zmt zmb"><small><span class="label label-info" style="margin-right: 5px;">Note:</span> <code>.zmb</code> is a special PageLines utility class that you can use to specify a zero margin on top<code>.zmt</code> , or on bottom <code>.zmb</code> of any element giving you full control. Read more about these utility classes below.</small></p>
+<p class="zmt zmb"><small><span class="label label-info" style="margin-right: 5px;">Note:</span> <code>.zmb</code> is a special PageLines utility class that you can use to specify a zero margin on top<code>.zmt</code> , or on bottom <code>.zmb</code> of any element giving you full control. Read more about these utility classes on our <a href="http://docs.pagelines.com/tutorials/html-css-utilities">HTML/CSS Utilities]</a> page.</small></p>
 
 ## Layout Examples ##
 

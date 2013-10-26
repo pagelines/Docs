@@ -22,9 +22,7 @@ define ('WPLANG', 'da_DK');
 
 ## Update Safe ##
 
-PageLines DMS includes a `language` folder containing the `pagelines.pot`, which can be used to manually create your custom translations. If you add your custom translations to this language folder, they can be lost when updating.
-
-However, by using either the **Base Theme** or **PageLines Customize Plugin** and creating a `language` folder, your custom translations will be safe from updates. Create the `language` folder in the following location.
+By using either the **Base Theme** or **PageLines Customize Plugin** and creating a `language` folder, your custom translations will be safe from updates. Create the `language` folder in the following location.
 
 ### PageLines Customize Plugin ###
 
@@ -62,13 +60,11 @@ Once uploaded, your file structure for the Base Theme will look like this:
 
 ## PoEdit ##
 
-We offer a community-driven [Translation center](http://www.pagelines.com/translate/projects) for PageLines and welcome you to sign-up and help translate. If your language is not listed, please [let us know](mailto:hello@pagelines.com) and we can add it for you.
-
-Alternatively, if you wish to add translations manually, you can do so by using [PoEdit](http://www.poedit.net/).
+If you wish to add translations manually, you can do so by using [PoEdit](http://www.poedit.net/).
 
 PageLines DMS includes one `.pot` file which can be imported into PoEdit to translate. To get started open PoEdit and go to **File &rarr; New catalog from POT file**.
 
-Once you have done this, choose the **pagelines.pot** which is located in `/wp-content/themes/pagelines/language/` and PoEdit will show the catalog properties window.
+Once you have done this, choose the **pagelines.pot** which is located in `/wp-content/themes/dms/language/` and PoEdit will show the catalog properties window.
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/catalog-property-window.jpg)
 

@@ -29,7 +29,7 @@ With this line of code, we may have just increased the memory limit to 64Mb. If 
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
-			<li class="pull-left"><a href="http://docs.pagelines.com/support-troubleshooting/diagnosing">&larr; Diagnosing</a></li>
+			<li class="pull-left"><a href="http://docs.pagelines.com/support-troubleshooting/common-issues">Common Issues &rarr;</a></li>
   			<li class="pull-right"><a href="http://docs.pagelines.com/support-troubleshooting/white-screen-of-death">White Screen of Death &rarr;</a></li>
 		</ul>
 	</div>

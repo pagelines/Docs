@@ -10,7 +10,7 @@
 
 # Options #
 
-PageLines DMS provides users with a number of global settings, allowing them to change their site's layout, add social intergration, control colors, styles and more.
+PageLines DMS provides users with a number of global settings, allowing them to change their site's layout, add social integration, control colors, styles and more.
 
 ## Admin Shortcuts ##
 
@@ -126,6 +126,8 @@ Enter the required information for either twitter, facebook or hashtag into the 
 
 ![Section Control](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/social-local.jpg "Social Media")
 
+**Note:** Using the adblock plus extension will hide all options please disable or make an exception for your site.
+
 ## NavBar ##
 
 The **NavBar** panel provides the ability to enable a fixed navigation bar to the top of your website. This Fixed Navigation bar is a powerful way to maintain your brand and menu even as your visitor’s scroll through your content.
@@ -178,6 +180,18 @@ The **Advanced** panel contains some additional options that can be useful to so
 #### Google Prettify Code ####
 
 Checking this box will enable a class of `prettyprint` to `<code>` or `<pre>` tags, or optionally use the `[pl_codebox]` shortcode. Wrap the codebox shortcode using `[pl_raw]` if Wordpress inserts line breaks.
+
+Google Prettify is a Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
+
+##### Example #####
+
+~~~ .css
+.example {
+	background-color: #0088DD;
+	color: #FFFFFF;
+	padding: 40px;
+}
+~~~
 
 #### PageLines Affiliate/Partner Link ####
 

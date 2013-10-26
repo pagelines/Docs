@@ -1,28 +1,31 @@
-<h1>Welcome</h3>
+<h1>Welcome</h>
 
 <p class="lead">Welcome to PageLines DMS documentation, the open source platform that allows beginners and experts to build amazing websites, as fast and easy as possible. If you're new here, continue reading our documentation to get started.</p>
 
 <h2>Getting Started</h2>
 
-<p>There are a few ways to quickly get started with DMS, you can download the open source version  available via GitHub, to see if the product meets your requirements or go straight ahead and purchase the professional version which provides additional options and functionality.</p>
+<p>There are a few ways to quickly get started with DMS, you can download the free version available via the <a href="http://www.pagelines.com/" target="_blank">PageLines.com</a>, if you're feeling brave, you can use the bleeding edge version available via GitHub or purchase the premium version of DMS, which provides additional options and functionality.</p>
 
-<h3>Open Source</h3>
+<h3>Free Version</h3>
 
-<p>DMS is open source and hosted on GitHub. This means you’ll have a collaborative codebase which gives you the ability to access latest changes, file issues, and contribute to the source.</p>
+<p>DMS is open source and can be downloaded freely from <a href="http://www.pagelines.com/" target="_blank">PageLines.com</a>, simply sign up using the <strong>Get DMS now. It's free!</strong> button and follow the instructions.
 
-<div class="row-fluid">
-	<div class="span12">
-		<h4>Download Compiled</h4>
-		<p>Fastest way to get started is by downloading the compiled version which comes in .zip format.</p>
-		<p><a class="btn btn-default btn-primary" href="https://github.com/pagelines/DMS/archive/Dev.zip" "target="_blank""><i class="icon-github-alt"></i> Download DMS</a></p>
-	</div>
-</div>
+<p><a class="btn btn-link" href="https://www.pagelines.com" target="_blank">Download DMS</a></p>
+
+
+<h3>Bleeding Edge</h3>
+
+<p>DMS can also be found on GitHub. However, this is the "bleeding edge" version. This branch is likely to be broken and buggy, but can be useful for testing new features and finding potential bugs.
+
+Having DMS on GitHub means you’ll have a collaborative codebase which gives you the ability to access latest changes, file issues, and contribute to the source.</p>
+
+<p><a class="btn btn-link" href="https://github.com/pagelines/DMS/archive/Dev.zip" target="_blank">Download Bleedy Edge</a></p>
 
 <h3>Professional Edition</h3>
 
 <p>As well as being open source and hosted on GitHub. We have also developed a professional edition, which included extra options and added functionality such as viewpoint animation.</p>
 
-<p><a class="btn btn-default btn-success" href="http://www.pagelines.com/pricing/" "target="_blank"">Purchase DMS now!</a></p>
+<p><a class="btn btn-link" href="http://www.pagelines.com/pricing/" target="_blank">Purchase DMS now!</a></p>
 
 
 <h2>Quick Links</h2>
@@ -44,9 +47,9 @@
 		<ul>
 			<li><a href="http://www.pagelines.com/forum/">Forum</a></li>
 			<li><a href="http://www.pagelines.com/contact/">Helpdesk</a></li>
-			<li><a href="http://www.pagelines.com/pros/">PageLines Pros</a></li>
 			<li><a href="http://pagelines.com/translate/projects/">Translation Center</a></li>
 			<li><a href="https://github.com/pagelines/DMS/issues">Issue Tracker</a></li>
+			<li><a href="http://docs.pagelines.com/changelog">DMS Changelog</a></li>
 		</ul>
 	</div>
 </div>
@@ -55,4 +58,4 @@
 
 <p>The PageLines DMS documentation is hosted on GitHub, this means our documentation is open to the public. Anyone who has a GitHub account can contribute to improving our documentation, this includes correcting any errors or creating your own docs to assist other PageLines DMS users.</p>
 
-<p><a class="btn btn-default btn-primary" href="https://github.com/pagelines/Docs/" target="_blank"><i class="icon-github-alt"></i> Contribute</a></p>
+<p><a class="btn btn-link" href="https://github.com/pagelines/Docs/" target="_blank">Contribute</a></p>

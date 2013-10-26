@@ -36,7 +36,7 @@ Whilst developing PageLines DMS, it is very difficult to prevent some CSS change
 * Move all of your widgets back to the desired locations **Appearance &rarr; Widgets**.
 * Visit each tab of the DMS Toolbar and adjust the settings to your liking (don’t forget to enter your account info too!).
 * Paste your custom CSS, functions, etc, that you copied earlier back into your site.
-* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize/) doc.
+* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize) doc.
 
 ## Migrating from PageLines Framework ##
 
@@ -54,7 +54,11 @@ Like the instructions above, your site content such as pages and posts will rema
 * Move all of your widgets back to the desired locations **Appearance &rarr; Widgets**.
 * Visit each tab of the DMS Toolbar and adjust the settings to your liking (don’t forget to enter your account info too!).
 * Paste your custom CSS, functions, etc, that you copied earlier back into your site.
-* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize/) doc.
+* There are three ways to do this, for more information see our [How to Customize](http://docs.pagelines.com/customize/how-to-customize) doc.
+
+<div class="alert alert-error">
+  <strong>Warning:</strong> You must uninstall the <strong>PageLines Section</strong> plugin, as this may cause issues with DMS such as section styles not loading etc, this is because sections in DMS are now considered plugins.
+</div>
 
 ## Upgrading From DMS Lite
 
@@ -74,7 +78,7 @@ Please check out the release thread before upgrading`
 <div class="row-fluid">
 	<div class="span12">
 		<ul class="pager">
-			<li class="pull-left"><a href="http://docs.pagelines.com/getting-started/installation">&larr; Installation</a></li>
+			<li class="pull-left"><a href="http://docs.pagelines.com/getting-started/activation">&larr; Activation</a></li>
   			<li class="pull-right"><a href="http://docs.pagelines.com/getting-started/dashboard-account">Dashboard & Your Account &rarr;</i></a></li>
 		</ul>
 	</div>

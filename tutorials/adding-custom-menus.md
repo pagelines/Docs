@@ -38,25 +38,9 @@ Important:  WordPress limits the number of levels for menus to three (3) -- Pare
 
 ## Adding Icons ##
 
-If you'd like to display icons on your menu items, we recommend using [Font Awesome](http://docs.pagelines.com/tutorials/font-awesome). There are two simple methods, which we will go through below.
+If you'd like to display icons on your menu items, we recommend using [Font Awesome](http://docs.pagelines.com/tutorials/font-awesome). There are two methods, which we will go through below.
 
-### Using icon class ###
-
-Navigate to **Appearance &rarr; Menus** and choose the menu item (for this example, we will be using our **Home** menu item) you want to customize and click on the arrow to expand the settings.
-
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/custom-menu-icon-example1.jpg)
-
-In the **CSS Classes (optional)** add `icon-home` and click **Save**.
-
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/custom-menu-icon-example3.jpg)
-
-When you refresh your homepage, your menu should look similar to this to the image below.
-
-![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/custom-menu-icon-example2.jpg)
-
-Repeat this process for all your menu items. For a full list of icons see our [Font Awesome](http://docs.pagelines.com/tutorials/font-awesome) page.
-
-### Using icon code ###
+### Using Icon Code ###
 
 Navigate to **Appearance &rarr; Menus** and choose the menu item (for this example, we will be using our **Home** menu item) you want to customize and click on the arrow to expand the settings.
 
@@ -70,7 +54,7 @@ Repeat this process for all your menu items. For a full list of icons see our [F
 
 ![](https://raw.github.com/pagelines/Docs/master/gh-pages-template/public/img/custom-menu-icon-example2.jpg)
 
-There is a more complex method to adding icons to your menu items, which requires you to indentify each menu items ID and then use the CSS Pseudo class `:before` or `:after` depending on where you want your icon positioned.
+There is a more complex method to adding icons to your menu items, which requires you to indentify each menu items ID then use the CSS Pseudo class `:before` or `:after` depending on where you want your icon positioned. You will also need to use the icons Unicode, a full list can be found on the [Font Awesome cheatsheet](http://fortawesome.github.io/Font-Awesome/cheatsheet/). 
 
 For more information on CSS Pseudo classes, see this [article](http://css-tricks.com/pseudo-class-selectors/).
 
