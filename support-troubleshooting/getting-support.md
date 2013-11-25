@@ -36,7 +36,7 @@ The PageLines [Issue Tracker](https://github.com/pagelines/DMS/issues) should be
 
 ### Translation Center ###
 
-The PageLines [Translation Center](http://pagelines.com/translate/projects/) allows PageLines users and developers to collaborate on translations.
+The PageLines [Translation Center](https://www.transifex.com/projects/p/pagelines-dms/) allows PageLines users and developers to collaborate on translations.
 
 ### PageLines Pastie ###
 
