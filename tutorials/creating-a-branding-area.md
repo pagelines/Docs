@@ -10,7 +10,7 @@
 
 # Creating a Branding Area #
 
-Once you have DMS installed, one of the first things you will want to do is add branding to your website. Usually, this area consists of a logo image on one side and a navigation menu plus social media links on the other. In this tutorial, we will show you how to create your branding header area using nothing more than:
+Once you have DMS installed, one of the first things you will want to do is add branding to your website. Usually, this area consists of a logo image on one side and a navigation menu plus social media links on the other. There are some premium Branding sections available in the <a href="http://www.pagelines.com/?s=branding&post_type=product">PageLines Store,</a> but you can also create your own. In this tutorial, we will show you how to create your branding header area using nothing more than:
 
 * 2 Column Section
 * MediaBox Section with some basic HTML
