@@ -110,7 +110,10 @@ These variables have each been given a specified color which is associated with 
 @youtube:			#CD332D;
 ~~~
 
-**NOTE:** Please be aware that if you remove any variables which you may not use, you will also need to remove the icon LESS CSS from the code below. Otherwise, you will encounter a compiling error.
+<div class="bs-callout bs-callout-warning">
+  <h4>Note:</h4>
+  Please be aware that if you remove any variables which you may not use, you will also need to remove the icon LESS CSS from the code below. Otherwise, you will encounter a compiling error.
+</div>
 
 Now it's time to add the LESS which will style the Social bar HTML we added earlier. Add the following code to either **DMS Toolbar → </> Custom Code → Custom LESS/CSS Editor** or your **style.less** file in either **PageLines Customize Plugin** or **Base Theme**.
 
